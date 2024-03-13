@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Metric Tracker
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
