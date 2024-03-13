@@ -1,7 +1,7 @@
 const {By, Builder, Browser} = require('selenium-webdriver');
 
 // Initialize browser
-(async function example() {
+(async function firstTest() {
     let driver;
 
   try {
